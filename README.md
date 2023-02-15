@@ -1,4 +1,4 @@
-#INTERSHIP
+#INTERNSHIP
 
 FlipRobo Internship work
 
